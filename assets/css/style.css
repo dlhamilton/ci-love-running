@@ -258,6 +258,13 @@ footer{
     hr{
         display:none;
     }
+
+    #times > div {
+width:100%;
+clear:both;
+height:150px;
+padding:0;
+    }
 }
 
 /* for medium screen sizes from 950px */
@@ -289,4 +296,5 @@ footer{
         text-align: center;
         padding:0,20px;
     }
+
 }
